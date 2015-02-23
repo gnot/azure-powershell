@@ -263,7 +263,7 @@ Switch-AzureMode AzureResourceManager
 All the cmdlets can be put into 3 categories:
 
 1. Cmdlets support both Microsoft Azure and Windows Azure Pack
-2. Cmdlets only support both Microsoft Azure
+2. Cmdlets only support Microsoft Azure
 3. Cmdlets only support Windows Azure Pack
 
 * For category 1, we are using an "Azure" prefix in the cmdlet name and adding an alias with "WAPack" prefix.
